@@ -18,6 +18,7 @@ print(x)
 x = np.searchsorted(arr, 7, side='right')
 print(x)
 
+
 arr = np.array([1, 3, 5, 7])
 x = np.searchsorted(arr, [2, 4, 6])
 print(x)
