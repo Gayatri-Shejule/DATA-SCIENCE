@@ -1,0 +1,16 @@
+Order_ID,Customer_Name,Product,Category,Price,Quantity,Total_Amount,Order_Date,City,Payment_Method
+1001,Amit Sharma,iPhone 13,Electronics,65000,1,65000,2024-01-10,Pune,UPI
+1002,Priya Verma,AirPods Pro,Electronics,24000,2,48000,2024-01-12,Mumbai,Credit Card
+1003,Rahul Singh,Samsung Galaxy S23,Electronics,75000,1,75000,2024-01-15,Delhi,Debit Card
+1004,Neha Patel,Boat Headphones,Accessories,2500,3,7500,2024-01-18,Chennai,Cash
+1005,Arjun Mehta,HP Laptop,Computers,58000,1,58000,2024-01-20,Bangalore,UPI
+1006,Simran Kaur,Canon Camera,Electronics,45000,1,45000,2024-01-22,Pune,Credit Card
+1007,Vikram Rao,Smart Watch,Accessories,7000,2,14000,2024-01-25,Hyderabad,Debit Card
+1008,Anjali Desai,Dell Monitor,Computers,15000,1,15000,2024-01-28,Mumbai,UPI
+1009,Karan Malhotra,Keyboard,Accessories,1500,4,6000,2024-02-02,Delhi,Cash
+1010,Sneha Iyer,MacBook Air,Computers,95000,1,95000,2024-02-05,Bangalore,Credit Card
+1011,Rohit Nair,Tablet,Electronics,30000,2,60000,2024-02-08,Chennai,UPI
+1012,Meera Joshi,Printer,Computers,12000,1,12000,2024-02-10,Pune,Debit Card
+1013,Aditya Kulkarni,Power Bank,Accessories,1200,5,6000,2024-02-12,Hyderabad,Cash
+1014,Pooja Shah,OnePlus 12,Electronics,65000,1,65000,2024-02-15,Mumbai,Credit Card
+1015,Manish Gupta,External HDD,Computers,5000,2,10000,2024-02-18,Delhi,UPI
