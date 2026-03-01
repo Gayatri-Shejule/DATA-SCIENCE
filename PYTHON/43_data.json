@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "age": 21,
+      "course": "Data Science",
+      "marks": 85
+    },
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "age": 22,
+      "course": "Computer Science",
+      "marks": 90
+    },
+    {
+      "id": 3,
+      "name": "Rahul Patil",
+      "age": 20,
+      "course": "Information Technology",
+      "marks": 78
+    }
+  ]
+}
